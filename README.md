@@ -217,7 +217,7 @@ This project is open source and available under the MIT License.
 ## Contact
 
 **Author**: Parmod Pal
-**Email**: parmod.pal@example.com
+**Email**: parmodpal09@gmail.com
 **GitHub**: [@parmod-pal](https://github.com/parmod-pal)
 
 ## Acknowledgments
